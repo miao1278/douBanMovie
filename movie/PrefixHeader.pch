@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  movie
+//
+//  Created by miao on 15-9-26.
+//  Copyright (c) 2015年 miao. All rights reserved.
+//
+
+#ifndef movie_PrefixHeader_pch
+#define movie_PrefixHeader_pch
+
+#define windowWidth [UIScreen mainScreen].bounds.size.width
+#define windowHeight [UIScreen mainScreen].bounds.size.height
+
+
+
+#import "DataServise.h"
+#import "UIViewExt.h"
+#endif
